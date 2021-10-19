@@ -7,7 +7,7 @@
                      document.getElementByName();
 
 4. when we write this elements we make sure that they have some id 
-                <p id="demo">Some value</p>
+                <!-- <p id="demo">Some value</p> -->
                 # the id should be unique we can't use it somewhere else
 
 5. ".js" files are accessed by HTML by using script tag,
